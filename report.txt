@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-F_Cu.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-B_Cu.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-F_Paste.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-B_Paste.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-F_Mask.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-B_Mask.gbr'.
+Plotted to 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\jgh16\OneDrive\Documents\PCB Design\Prototype Board\Protyping board\Protyping board-job.gbrjob'.
+Info: Done.
